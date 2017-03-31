@@ -18,9 +18,9 @@ public class Joining {
 //	}
 	
 	
-	public static void main(String[] args) {
-		ExecutorService executorService = Executors.newCachedThreadPool(new HanderThreadFactory());
-		executorService.execute(new ExeptionThread2());
-	}
+//	public static void main(String[] args) {
+//		ExecutorService executorService = Executors.newCachedThreadPool(new HanderThreadFactory());
+//		executorService.execute(new ExeptionThread2());
+//	}
 }
 
